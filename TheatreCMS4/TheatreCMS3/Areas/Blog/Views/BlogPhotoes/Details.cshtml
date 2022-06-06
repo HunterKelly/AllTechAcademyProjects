@@ -1,0 +1,38 @@
+﻿@model TheatreCMS3.Areas.Blog.Models.BlogPhoto
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2 class="blogphoto-details--header">Blog Photo Details</h2>
+
+<div>
+
+    <div class="blogphoto-parentheader--header">
+        <div class="blogphoto-titledisplay--header">@Html.DisplayNameFor(model => model.Title)</div>
+        <div class="blogphoto-title--header">
+            @Html.DisplayFor(model => model.Title)
+        </div>
+
+        @{var byteImage = Convert.ToBase64String(Model.Photo);}
+
+        <div>
+            <img src="data:image/jpg;base64, @byteImage" class="card-img-top blogphoto-cardImage--image" alt="Blog Photo failed to load" />
+        </div>
+    </div>
+
+
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+
+        <div>
+            <div>
+                @Html.ActionLink("Edit", "Edit", new { id = Model.BlogPhotoId }, new { @class = "btn btn-secondary fa fa-camera blogphoto-edit-delete--btn" })
+                @Html.ActionLink("Back to List", "Index", null, new { @class = "btn btn-secondary fas fa-arrow-alt-circle-left blogphoto-back-to-list-delete--btn" })
+            </div>
+        </div>
+    }
+
+</div>

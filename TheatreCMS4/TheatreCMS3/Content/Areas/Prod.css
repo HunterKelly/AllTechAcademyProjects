@@ -1,0 +1,114 @@
+﻿/* ▼ This ▼ is for you to easily reference the colors on the Site.css page */
+/* Do not uncomment these color variables */
+
+/* CSS color variables */
+/*:root { /* Color palette for css */
+/*--main-color: #DB1A11;  Red */
+/*--main-color--light: #F04D44;*/ /* Red, a shade lighter */
+/*--secondary-color: #D6972A;*/ /* Yellow gold */
+/*--light-color: #FFFBFB;*/ /* White */
+/*--dark-color: #000000;*/ /* Black */
+/*--secondary-color--dark: #9D7C39;*/ /* Dark Gold */
+/*}*/
+
+.castmember-create-formcontainer {
+    background-color: var(--secondary-color);
+    border-radius: 5px;
+    padding: 1% 0% 3% 15%;
+}
+
+.castmember-create-fontstyle {
+    color: var(--dark-color);
+    font-weight: 600;
+}
+
+.castmember-create-formbtn {
+    color: var(--dark-color);
+    font-weight: 900;
+    background-color: var(--main-color--light);
+    border-color: var(--main-color);
+}
+
+.castmember-create-formbtn2 {
+    color: var(--dark-color);
+    font-weight: 900;
+    background-color: var(--light-color);
+    border-color: var(--main-color);
+}
+
+.castmember-create-formbtn:hover, .castmember-create-formbtn2:hover {
+    background-color: var(--main-color);
+    border-color: var(--light-color);
+}
+
+.castmember-create-textbox {
+    border-color: #D6972A;
+    background-color: var(--light-color);
+}
+
+.castmember-create-textbox:focus {
+    color: var(--dark-color);
+    font-weight: 600;
+    background-color: var(--main-color);
+    box-shadow: 0 0 0 0.2rem var(--dark-color);
+    border-color: var(--dark-color);
+}
+
+.castmember-index-cardbg {
+    background-color: var(--secondary-color);
+    padding: 1%;
+}
+
+.castmember-index-cardfont{
+    color: var(--dark-color);
+}
+
+.castmember-index-cardoverlay{
+    z-index: 1;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0,0,0,.5);
+    opacity: 0;
+    cursor: pointer;
+}
+
+.castmember-index-cardoverlay:hover{
+    opacity: 1;
+}
+
+.Areas-Prod-Views-ProductionMembers-Create {
+    padding: 20px;
+}
+
+.Areas-Prod-Views-ProductionMembers-Create-btn {
+    margin-left: 8px;
+    margin-right: 8px;
+    margin-bottom: 8px;
+    background-color: var(--secondary-color);
+    border-radius: 5px;
+    justify-content: center;
+    font-weight: 700;
+}
+
+.Areas-Prod-Views-ProductionMembers-Create-back {
+    margin-left: 8px;
+    margin-right: 8px;
+    margin-bottom: 8px;
+    padding: 8px;
+    background-color: var(--secondary-color);
+    border-radius: 5px;
+    justify-content: center;
+    font-weight: 700;
+    color: var(--main-color--light);
+}
+
+.ProductionMembers-Index-Photo {
+    height: 100%;
+    width: 100%;
+}
+.ProductionMembers-text-card {
+    text-align:center
+}

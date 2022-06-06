@@ -1,0 +1,31 @@
+﻿@model IEnumerable<TheatreCMS3.Areas.Blog.Models.BlogPhoto>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+
+<div class="card-columns blogphoto-myCardColumns--column">
+    @foreach (var item in Model)
+    {
+        var byteImage = Convert.ToBase64String(item.Photo);
+
+        <div class="card blogphoto-card--card">
+            <a class="blogphoto-cardDetails--action" href="@Url.Action("Details", "BlogPhotoes", new { id = item.BlogPhotoId })"><img src="data:image/jpg;base64, @byteImage" class="card-img-top blogphoto-cardImage--image" alt="Blog Photo failed to load"></a>
+            <p class="blogphoto-cardText--text">
+                @Html.DisplayFor(modelItem => item.Title)
+            </p>
+            <p class="blogphoto-cardButtons--btn">
+                @Html.ActionLink("Edit", "Edit", new { id = item.BlogPhotoId }, new { @class = "btn blogphoto-edit-index--btn" })
+                @Html.ActionLink("Delete", "Delete", new { id = item.BlogPhotoId }, new { @class = "btn blogphoto-delete--btn" })
+            </p>
+        </div>
+     }
+</div>
+

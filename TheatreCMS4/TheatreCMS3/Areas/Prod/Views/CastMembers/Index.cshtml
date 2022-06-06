@@ -1,0 +1,35 @@
+﻿@model IEnumerable<TheatreCMS3.Areas.Prod.Models.CastMember>
+
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    var ProductionTitles = Model.GroupBy(model => model.ProductionTitle); //group all objects by their ProductionTitle
+}
+
+<h1 class="text-center">Cast Members</h1>
+
+<p class="text-center">
+    @Html.ActionLink("Create New", "Create", null, new { @class = "btn castmember-create-formbtn2" })<!--button used to redirect to create page-->
+</p>
+
+<div class="card-deck">
+    @foreach (var title in ProductionTitles) //iterate through each group of objects
+    {
+        <h3 class="row w-100 border-bottom">@title.Key</h3><!--add a title for each group-->
+        <div class="card-columns w-100">
+            @foreach (var item in title)//iterate through each object in the group
+            {
+                <div class="card col-md-8 castmember-index-cardbg" onclick="location.href='@Url.Action("Details", new { id = item.CastMemberId })'"><!--link to the details page-->
+                    <img class="card-img-top" src="data:image;base64,@System.Convert.ToBase64String(item.Photo)" height="250px" /><!--convert image to display from byte array-->
+                    <h4 class="card-body text-center castmember-index-cardfont">@Html.DisplayFor(modelItem => item.Name)</h4>
+                    <div class="card-img-overlay castmember-index-cardoverlay text-center">
+                    @Html.ActionLink("Edit", "Edit", new { id = item.CastMemberId }, new { @class = "btn castmember-create-formbtn2" }) |
+                    @Html.ActionLink("Delete", "Delete", new { id = item.CastMemberId }, new { @class = "btn castmember-create-formbtn2" })
+                    </div>
+                </div>
+            }
+        </div>
+    }
+
+</div>
