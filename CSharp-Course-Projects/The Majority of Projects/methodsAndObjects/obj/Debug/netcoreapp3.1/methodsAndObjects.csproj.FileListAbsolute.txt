@@ -1,0 +1,13 @@
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\methodsAndObjects\bin\Debug\netcoreapp3.1\methodsAndObjects.exe
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\methodsAndObjects\bin\Debug\netcoreapp3.1\methodsAndObjects.deps.json
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\methodsAndObjects\bin\Debug\netcoreapp3.1\methodsAndObjects.runtimeconfig.json
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\methodsAndObjects\bin\Debug\netcoreapp3.1\methodsAndObjects.runtimeconfig.dev.json
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\methodsAndObjects\bin\Debug\netcoreapp3.1\methodsAndObjects.dll
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\methodsAndObjects\bin\Debug\netcoreapp3.1\methodsAndObjects.pdb
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\methodsAndObjects\obj\Debug\netcoreapp3.1\methodsAndObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\methodsAndObjects\obj\Debug\netcoreapp3.1\methodsAndObjects.AssemblyInfoInputs.cache
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\methodsAndObjects\obj\Debug\netcoreapp3.1\methodsAndObjects.AssemblyInfo.cs
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\methodsAndObjects\obj\Debug\netcoreapp3.1\methodsAndObjects.csproj.CoreCompileInputs.cache
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\methodsAndObjects\obj\Debug\netcoreapp3.1\methodsAndObjects.dll
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\methodsAndObjects\obj\Debug\netcoreapp3.1\methodsAndObjects.pdb
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\methodsAndObjects\obj\Debug\netcoreapp3.1\methodsAndObjects.genruntimeconfig.cache

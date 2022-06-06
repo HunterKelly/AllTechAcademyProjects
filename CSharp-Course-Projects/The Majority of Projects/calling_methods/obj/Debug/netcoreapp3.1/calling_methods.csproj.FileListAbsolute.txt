@@ -1,0 +1,14 @@
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\calling_methods\bin\Debug\netcoreapp3.1\calling_methods.exe
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\calling_methods\bin\Debug\netcoreapp3.1\calling_methods.deps.json
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\calling_methods\bin\Debug\netcoreapp3.1\calling_methods.runtimeconfig.json
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\calling_methods\bin\Debug\netcoreapp3.1\calling_methods.runtimeconfig.dev.json
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\calling_methods\bin\Debug\netcoreapp3.1\calling_methods.dll
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\calling_methods\bin\Debug\netcoreapp3.1\calling_methods.pdb
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\calling_methods\obj\Debug\netcoreapp3.1\calling_methods.csproj.AssemblyReference.cache
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\calling_methods\obj\Debug\netcoreapp3.1\calling_methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\calling_methods\obj\Debug\netcoreapp3.1\calling_methods.AssemblyInfoInputs.cache
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\calling_methods\obj\Debug\netcoreapp3.1\calling_methods.AssemblyInfo.cs
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\calling_methods\obj\Debug\netcoreapp3.1\calling_methods.csproj.CoreCompileInputs.cache
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\calling_methods\obj\Debug\netcoreapp3.1\calling_methods.dll
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\calling_methods\obj\Debug\netcoreapp3.1\calling_methods.pdb
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\calling_methods\obj\Debug\netcoreapp3.1\calling_methods.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\MathAndComparisonOperators\bin\Debug\netcoreapp3.1\MathAndComparisonOperators.exe
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\MathAndComparisonOperators\bin\Debug\netcoreapp3.1\MathAndComparisonOperators.deps.json
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\MathAndComparisonOperators\bin\Debug\netcoreapp3.1\MathAndComparisonOperators.runtimeconfig.json
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\MathAndComparisonOperators\bin\Debug\netcoreapp3.1\MathAndComparisonOperators.runtimeconfig.dev.json
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\MathAndComparisonOperators\bin\Debug\netcoreapp3.1\MathAndComparisonOperators.dll
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\MathAndComparisonOperators\bin\Debug\netcoreapp3.1\MathAndComparisonOperators.pdb
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\MathAndComparisonOperators\obj\Debug\netcoreapp3.1\MathAndComparisonOperators.csproj.AssemblyReference.cache
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\MathAndComparisonOperators\obj\Debug\netcoreapp3.1\MathAndComparisonOperators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\MathAndComparisonOperators\obj\Debug\netcoreapp3.1\MathAndComparisonOperators.AssemblyInfoInputs.cache
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\MathAndComparisonOperators\obj\Debug\netcoreapp3.1\MathAndComparisonOperators.AssemblyInfo.cs
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\MathAndComparisonOperators\obj\Debug\netcoreapp3.1\MathAndComparisonOperators.csproj.CoreCompileInputs.cache
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\MathAndComparisonOperators\obj\Debug\netcoreapp3.1\MathAndComparisonOperators.dll
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\MathAndComparisonOperators\obj\Debug\netcoreapp3.1\MathAndComparisonOperators.pdb
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\MathAndComparisonOperators\obj\Debug\netcoreapp3.1\MathAndComparisonOperators.genruntimeconfig.cache

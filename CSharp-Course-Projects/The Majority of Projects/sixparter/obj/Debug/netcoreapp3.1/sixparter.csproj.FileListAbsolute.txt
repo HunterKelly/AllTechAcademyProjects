@@ -1,0 +1,14 @@
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\sixparter\obj\Debug\netcoreapp3.1\sixparter.csproj.AssemblyReference.cache
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\sixparter\obj\Debug\netcoreapp3.1\sixparter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\sixparter\obj\Debug\netcoreapp3.1\sixparter.AssemblyInfoInputs.cache
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\sixparter\obj\Debug\netcoreapp3.1\sixparter.AssemblyInfo.cs
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\sixparter\obj\Debug\netcoreapp3.1\sixparter.csproj.CoreCompileInputs.cache
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\sixparter\bin\Debug\netcoreapp3.1\sixparter.exe
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\sixparter\bin\Debug\netcoreapp3.1\sixparter.deps.json
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\sixparter\bin\Debug\netcoreapp3.1\sixparter.runtimeconfig.json
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\sixparter\bin\Debug\netcoreapp3.1\sixparter.runtimeconfig.dev.json
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\sixparter\bin\Debug\netcoreapp3.1\sixparter.dll
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\sixparter\bin\Debug\netcoreapp3.1\sixparter.pdb
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\sixparter\obj\Debug\netcoreapp3.1\sixparter.dll
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\sixparter\obj\Debug\netcoreapp3.1\sixparter.pdb
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\sixparter\obj\Debug\netcoreapp3.1\sixparter.genruntimeconfig.cache

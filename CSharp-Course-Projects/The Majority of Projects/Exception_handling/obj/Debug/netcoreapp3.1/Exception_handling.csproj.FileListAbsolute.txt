@@ -1,0 +1,14 @@
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\Exception_handling\bin\Debug\netcoreapp3.1\Exception_handling.exe
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\Exception_handling\bin\Debug\netcoreapp3.1\Exception_handling.deps.json
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\Exception_handling\bin\Debug\netcoreapp3.1\Exception_handling.runtimeconfig.json
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\Exception_handling\bin\Debug\netcoreapp3.1\Exception_handling.runtimeconfig.dev.json
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\Exception_handling\bin\Debug\netcoreapp3.1\Exception_handling.dll
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\Exception_handling\bin\Debug\netcoreapp3.1\Exception_handling.pdb
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\Exception_handling\obj\Debug\netcoreapp3.1\Exception_handling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\Exception_handling\obj\Debug\netcoreapp3.1\Exception_handling.AssemblyInfoInputs.cache
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\Exception_handling\obj\Debug\netcoreapp3.1\Exception_handling.AssemblyInfo.cs
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\Exception_handling\obj\Debug\netcoreapp3.1\Exception_handling.csproj.CoreCompileInputs.cache
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\Exception_handling\obj\Debug\netcoreapp3.1\Exception_handling.dll
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\Exception_handling\obj\Debug\netcoreapp3.1\Exception_handling.pdb
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\Exception_handling\obj\Debug\netcoreapp3.1\Exception_handling.genruntimeconfig.cache
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\Exception_handling\obj\Debug\netcoreapp3.1\Exception_handling.csproj.AssemblyReference.cache

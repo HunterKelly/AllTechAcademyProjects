@@ -1,0 +1,13 @@
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\Abstract Class assignment\bin\Debug\netcoreapp3.1\Abstract Class assignment.exe
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\Abstract Class assignment\bin\Debug\netcoreapp3.1\Abstract Class assignment.deps.json
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\Abstract Class assignment\bin\Debug\netcoreapp3.1\Abstract Class assignment.runtimeconfig.json
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\Abstract Class assignment\bin\Debug\netcoreapp3.1\Abstract Class assignment.runtimeconfig.dev.json
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\Abstract Class assignment\bin\Debug\netcoreapp3.1\Abstract Class assignment.dll
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\Abstract Class assignment\bin\Debug\netcoreapp3.1\Abstract Class assignment.pdb
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\Abstract Class assignment\obj\Debug\netcoreapp3.1\Abstract Class assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\Abstract Class assignment\obj\Debug\netcoreapp3.1\Abstract Class assignment.AssemblyInfoInputs.cache
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\Abstract Class assignment\obj\Debug\netcoreapp3.1\Abstract Class assignment.AssemblyInfo.cs
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\Abstract Class assignment\obj\Debug\netcoreapp3.1\Abstract Class assignment.csproj.CoreCompileInputs.cache
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\Abstract Class assignment\obj\Debug\netcoreapp3.1\Abstract Class assignment.dll
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\Abstract Class assignment\obj\Debug\netcoreapp3.1\Abstract Class assignment.pdb
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\Abstract Class assignment\obj\Debug\netcoreapp3.1\Abstract Class assignment.genruntimeconfig.cache

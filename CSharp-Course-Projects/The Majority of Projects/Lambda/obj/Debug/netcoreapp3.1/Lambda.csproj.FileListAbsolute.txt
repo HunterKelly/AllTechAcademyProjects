@@ -1,0 +1,13 @@
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\Lambda\bin\Debug\netcoreapp3.1\Lambda.exe
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\Lambda\bin\Debug\netcoreapp3.1\Lambda.deps.json
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\Lambda\bin\Debug\netcoreapp3.1\Lambda.runtimeconfig.json
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\Lambda\bin\Debug\netcoreapp3.1\Lambda.runtimeconfig.dev.json
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\Lambda\bin\Debug\netcoreapp3.1\Lambda.dll
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\Lambda\bin\Debug\netcoreapp3.1\Lambda.pdb
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\Lambda\obj\Debug\netcoreapp3.1\Lambda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\Lambda\obj\Debug\netcoreapp3.1\Lambda.AssemblyInfoInputs.cache
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\Lambda\obj\Debug\netcoreapp3.1\Lambda.AssemblyInfo.cs
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\Lambda\obj\Debug\netcoreapp3.1\Lambda.csproj.CoreCompileInputs.cache
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\Lambda\obj\Debug\netcoreapp3.1\Lambda.dll
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\Lambda\obj\Debug\netcoreapp3.1\Lambda.pdb
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\Lambda\obj\Debug\netcoreapp3.1\Lambda.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\Enum assignment\bin\Debug\netcoreapp3.1\Enum assignment.exe
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\Enum assignment\bin\Debug\netcoreapp3.1\Enum assignment.deps.json
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\Enum assignment\bin\Debug\netcoreapp3.1\Enum assignment.runtimeconfig.json
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\Enum assignment\bin\Debug\netcoreapp3.1\Enum assignment.runtimeconfig.dev.json
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\Enum assignment\bin\Debug\netcoreapp3.1\Enum assignment.dll
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\Enum assignment\bin\Debug\netcoreapp3.1\Enum assignment.pdb
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\Enum assignment\obj\Debug\netcoreapp3.1\Enum assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\Enum assignment\obj\Debug\netcoreapp3.1\Enum assignment.AssemblyInfoInputs.cache
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\Enum assignment\obj\Debug\netcoreapp3.1\Enum assignment.AssemblyInfo.cs
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\Enum assignment\obj\Debug\netcoreapp3.1\Enum assignment.csproj.CoreCompileInputs.cache
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\Enum assignment\obj\Debug\netcoreapp3.1\Enum assignment.dll
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\Enum assignment\obj\Debug\netcoreapp3.1\Enum assignment.pdb
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\Enum assignment\obj\Debug\netcoreapp3.1\Enum assignment.genruntimeconfig.cache

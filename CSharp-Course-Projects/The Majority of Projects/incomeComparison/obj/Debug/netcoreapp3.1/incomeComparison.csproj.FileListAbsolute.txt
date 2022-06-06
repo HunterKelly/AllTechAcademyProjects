@@ -1,0 +1,14 @@
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\incomeComparison\bin\Debug\netcoreapp3.1\incomeComparison.exe
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\incomeComparison\bin\Debug\netcoreapp3.1\incomeComparison.deps.json
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\incomeComparison\bin\Debug\netcoreapp3.1\incomeComparison.runtimeconfig.json
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\incomeComparison\bin\Debug\netcoreapp3.1\incomeComparison.runtimeconfig.dev.json
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\incomeComparison\bin\Debug\netcoreapp3.1\incomeComparison.dll
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\incomeComparison\bin\Debug\netcoreapp3.1\incomeComparison.pdb
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\incomeComparison\obj\Debug\netcoreapp3.1\incomeComparison.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\incomeComparison\obj\Debug\netcoreapp3.1\incomeComparison.AssemblyInfoInputs.cache
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\incomeComparison\obj\Debug\netcoreapp3.1\incomeComparison.AssemblyInfo.cs
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\incomeComparison\obj\Debug\netcoreapp3.1\incomeComparison.csproj.CoreCompileInputs.cache
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\incomeComparison\obj\Debug\netcoreapp3.1\incomeComparison.dll
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\incomeComparison\obj\Debug\netcoreapp3.1\incomeComparison.pdb
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\incomeComparison\obj\Debug\netcoreapp3.1\incomeComparison.genruntimeconfig.cache
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\incomeComparison\obj\Debug\netcoreapp3.1\incomeComparison.csproj.AssemblyReference.cache

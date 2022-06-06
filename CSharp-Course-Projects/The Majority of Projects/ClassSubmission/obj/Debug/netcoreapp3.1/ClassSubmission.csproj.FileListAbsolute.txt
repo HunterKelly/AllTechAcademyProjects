@@ -1,0 +1,13 @@
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\ClassSubmission\bin\Debug\netcoreapp3.1\ClassSubmission.exe
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\ClassSubmission\bin\Debug\netcoreapp3.1\ClassSubmission.deps.json
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\ClassSubmission\bin\Debug\netcoreapp3.1\ClassSubmission.runtimeconfig.json
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\ClassSubmission\bin\Debug\netcoreapp3.1\ClassSubmission.runtimeconfig.dev.json
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\ClassSubmission\bin\Debug\netcoreapp3.1\ClassSubmission.dll
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\ClassSubmission\bin\Debug\netcoreapp3.1\ClassSubmission.pdb
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\ClassSubmission\obj\Debug\netcoreapp3.1\ClassSubmission.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\ClassSubmission\obj\Debug\netcoreapp3.1\ClassSubmission.AssemblyInfoInputs.cache
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\ClassSubmission\obj\Debug\netcoreapp3.1\ClassSubmission.AssemblyInfo.cs
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\ClassSubmission\obj\Debug\netcoreapp3.1\ClassSubmission.csproj.CoreCompileInputs.cache
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\ClassSubmission\obj\Debug\netcoreapp3.1\ClassSubmission.dll
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\ClassSubmission\obj\Debug\netcoreapp3.1\ClassSubmission.pdb
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\ClassSubmission\obj\Debug\netcoreapp3.1\ClassSubmission.genruntimeconfig.cache

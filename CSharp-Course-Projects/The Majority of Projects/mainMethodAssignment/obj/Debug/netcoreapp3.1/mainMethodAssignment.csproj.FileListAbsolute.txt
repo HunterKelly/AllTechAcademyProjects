@@ -1,0 +1,14 @@
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\mainMethodAssignment\bin\Debug\netcoreapp3.1\mainMethodAssignment.exe
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\mainMethodAssignment\bin\Debug\netcoreapp3.1\mainMethodAssignment.deps.json
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\mainMethodAssignment\bin\Debug\netcoreapp3.1\mainMethodAssignment.runtimeconfig.json
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\mainMethodAssignment\bin\Debug\netcoreapp3.1\mainMethodAssignment.runtimeconfig.dev.json
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\mainMethodAssignment\bin\Debug\netcoreapp3.1\mainMethodAssignment.dll
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\mainMethodAssignment\bin\Debug\netcoreapp3.1\mainMethodAssignment.pdb
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\mainMethodAssignment\obj\Debug\netcoreapp3.1\mainMethodAssignment.csproj.AssemblyReference.cache
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\mainMethodAssignment\obj\Debug\netcoreapp3.1\mainMethodAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\mainMethodAssignment\obj\Debug\netcoreapp3.1\mainMethodAssignment.AssemblyInfoInputs.cache
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\mainMethodAssignment\obj\Debug\netcoreapp3.1\mainMethodAssignment.AssemblyInfo.cs
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\mainMethodAssignment\obj\Debug\netcoreapp3.1\mainMethodAssignment.csproj.CoreCompileInputs.cache
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\mainMethodAssignment\obj\Debug\netcoreapp3.1\mainMethodAssignment.dll
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\mainMethodAssignment\obj\Debug\netcoreapp3.1\mainMethodAssignment.pdb
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\mainMethodAssignment\obj\Debug\netcoreapp3.1\mainMethodAssignment.genruntimeconfig.cache

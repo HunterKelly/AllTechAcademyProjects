@@ -1,0 +1,13 @@
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\Parameters\bin\Debug\netcoreapp3.1\Parameters.exe
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\Parameters\bin\Debug\netcoreapp3.1\Parameters.deps.json
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\Parameters\bin\Debug\netcoreapp3.1\Parameters.runtimeconfig.json
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\Parameters\bin\Debug\netcoreapp3.1\Parameters.runtimeconfig.dev.json
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\Parameters\bin\Debug\netcoreapp3.1\Parameters.dll
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\Parameters\bin\Debug\netcoreapp3.1\Parameters.pdb
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\Parameters\obj\Debug\netcoreapp3.1\Parameters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\Parameters\obj\Debug\netcoreapp3.1\Parameters.AssemblyInfoInputs.cache
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\Parameters\obj\Debug\netcoreapp3.1\Parameters.AssemblyInfo.cs
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\Parameters\obj\Debug\netcoreapp3.1\Parameters.csproj.CoreCompileInputs.cache
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\Parameters\obj\Debug\netcoreapp3.1\Parameters.dll
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\Parameters\obj\Debug\netcoreapp3.1\Parameters.pdb
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\Parameters\obj\Debug\netcoreapp3.1\Parameters.genruntimeconfig.cache

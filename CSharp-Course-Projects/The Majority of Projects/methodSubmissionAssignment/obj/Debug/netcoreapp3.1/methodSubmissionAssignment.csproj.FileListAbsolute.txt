@@ -1,0 +1,14 @@
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\methodSubmissionAssignment\bin\Debug\netcoreapp3.1\methodSubmissionAssignment.exe
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\methodSubmissionAssignment\bin\Debug\netcoreapp3.1\methodSubmissionAssignment.deps.json
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\methodSubmissionAssignment\bin\Debug\netcoreapp3.1\methodSubmissionAssignment.runtimeconfig.json
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\methodSubmissionAssignment\bin\Debug\netcoreapp3.1\methodSubmissionAssignment.runtimeconfig.dev.json
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\methodSubmissionAssignment\bin\Debug\netcoreapp3.1\methodSubmissionAssignment.dll
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\methodSubmissionAssignment\bin\Debug\netcoreapp3.1\methodSubmissionAssignment.pdb
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\methodSubmissionAssignment\obj\Debug\netcoreapp3.1\methodSubmissionAssignment.csproj.AssemblyReference.cache
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\methodSubmissionAssignment\obj\Debug\netcoreapp3.1\methodSubmissionAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\methodSubmissionAssignment\obj\Debug\netcoreapp3.1\methodSubmissionAssignment.AssemblyInfoInputs.cache
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\methodSubmissionAssignment\obj\Debug\netcoreapp3.1\methodSubmissionAssignment.AssemblyInfo.cs
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\methodSubmissionAssignment\obj\Debug\netcoreapp3.1\methodSubmissionAssignment.csproj.CoreCompileInputs.cache
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\methodSubmissionAssignment\obj\Debug\netcoreapp3.1\methodSubmissionAssignment.dll
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\methodSubmissionAssignment\obj\Debug\netcoreapp3.1\methodSubmissionAssignment.pdb
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\methodSubmissionAssignment\obj\Debug\netcoreapp3.1\methodSubmissionAssignment.genruntimeconfig.cache

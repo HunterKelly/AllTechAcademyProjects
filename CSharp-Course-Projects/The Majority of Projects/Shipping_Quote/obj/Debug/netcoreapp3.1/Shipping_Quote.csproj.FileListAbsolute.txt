@@ -1,0 +1,14 @@
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\Shipping_Quote\bin\Debug\netcoreapp3.1\Shipping_Quote.exe
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\Shipping_Quote\bin\Debug\netcoreapp3.1\Shipping_Quote.deps.json
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\Shipping_Quote\bin\Debug\netcoreapp3.1\Shipping_Quote.runtimeconfig.json
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\Shipping_Quote\bin\Debug\netcoreapp3.1\Shipping_Quote.runtimeconfig.dev.json
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\Shipping_Quote\bin\Debug\netcoreapp3.1\Shipping_Quote.dll
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\Shipping_Quote\bin\Debug\netcoreapp3.1\Shipping_Quote.pdb
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\Shipping_Quote\obj\Debug\netcoreapp3.1\Shipping_Quote.csproj.AssemblyReference.cache
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\Shipping_Quote\obj\Debug\netcoreapp3.1\Shipping_Quote.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\Shipping_Quote\obj\Debug\netcoreapp3.1\Shipping_Quote.AssemblyInfoInputs.cache
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\Shipping_Quote\obj\Debug\netcoreapp3.1\Shipping_Quote.AssemblyInfo.cs
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\Shipping_Quote\obj\Debug\netcoreapp3.1\Shipping_Quote.csproj.CoreCompileInputs.cache
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\Shipping_Quote\obj\Debug\netcoreapp3.1\Shipping_Quote.dll
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\Shipping_Quote\obj\Debug\netcoreapp3.1\Shipping_Quote.pdb
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\Shipping_Quote\obj\Debug\netcoreapp3.1\Shipping_Quote.genruntimeconfig.cache

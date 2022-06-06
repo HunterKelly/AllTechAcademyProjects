@@ -1,0 +1,14 @@
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\ArrayApp\bin\Debug\netcoreapp3.1\ArrayApp.exe
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\ArrayApp\bin\Debug\netcoreapp3.1\ArrayApp.deps.json
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\ArrayApp\bin\Debug\netcoreapp3.1\ArrayApp.runtimeconfig.json
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\ArrayApp\bin\Debug\netcoreapp3.1\ArrayApp.runtimeconfig.dev.json
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\ArrayApp\bin\Debug\netcoreapp3.1\ArrayApp.dll
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\ArrayApp\bin\Debug\netcoreapp3.1\ArrayApp.pdb
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\ArrayApp\obj\Debug\netcoreapp3.1\ArrayApp.csproj.AssemblyReference.cache
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\ArrayApp\obj\Debug\netcoreapp3.1\ArrayApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\ArrayApp\obj\Debug\netcoreapp3.1\ArrayApp.AssemblyInfoInputs.cache
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\ArrayApp\obj\Debug\netcoreapp3.1\ArrayApp.AssemblyInfo.cs
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\ArrayApp\obj\Debug\netcoreapp3.1\ArrayApp.csproj.CoreCompileInputs.cache
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\ArrayApp\obj\Debug\netcoreapp3.1\ArrayApp.dll
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\ArrayApp\obj\Debug\netcoreapp3.1\ArrayApp.pdb
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\ArrayApp\obj\Debug\netcoreapp3.1\ArrayApp.genruntimeconfig.cache

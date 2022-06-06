@@ -1,0 +1,14 @@
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\BooleanComparison\bin\Debug\netcoreapp3.1\BooleanComparison.exe
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\BooleanComparison\bin\Debug\netcoreapp3.1\BooleanComparison.deps.json
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\BooleanComparison\bin\Debug\netcoreapp3.1\BooleanComparison.runtimeconfig.json
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\BooleanComparison\bin\Debug\netcoreapp3.1\BooleanComparison.runtimeconfig.dev.json
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\BooleanComparison\bin\Debug\netcoreapp3.1\BooleanComparison.dll
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\BooleanComparison\bin\Debug\netcoreapp3.1\BooleanComparison.pdb
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\BooleanComparison\obj\Debug\netcoreapp3.1\BooleanComparison.csproj.AssemblyReference.cache
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\BooleanComparison\obj\Debug\netcoreapp3.1\BooleanComparison.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\BooleanComparison\obj\Debug\netcoreapp3.1\BooleanComparison.AssemblyInfoInputs.cache
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\BooleanComparison\obj\Debug\netcoreapp3.1\BooleanComparison.AssemblyInfo.cs
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\BooleanComparison\obj\Debug\netcoreapp3.1\BooleanComparison.csproj.CoreCompileInputs.cache
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\BooleanComparison\obj\Debug\netcoreapp3.1\BooleanComparison.dll
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\BooleanComparison\obj\Debug\netcoreapp3.1\BooleanComparison.pdb
+C:\Users\hunte\source\repos\Basic_c-sharp_projects\Basic_C#_Programs\HelloWorld\BooleanComparison\obj\Debug\netcoreapp3.1\BooleanComparison.genruntimeconfig.cache
