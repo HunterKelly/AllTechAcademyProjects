@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Site</title>
+    <link rel="stylesheet" href="css/main.css">
+    <script src="js/main.js" defer></script>
+    <script src="http://code.jquery.com/jquery-latest.min.js" type="text/javascript"></script>
+</head>
+
+<body>
+    <h1>This page has all kinds of random stuff</h1>
+<p id="myDog"></p>
+
+    <div class="sticky">
+<button class="open-button" onclick="openForm()">Open Form</button>
+<div class="form-popup" id="myForm2">
+    <form action="" class="form-container">
+        <h1>Login</h1>
+
+        <label for="email"><b>Email</b></label>
+        <input type="text" placeholder="Enter Email" name="email" required>
+
+        <label for="psw"><b>Password</b></label>
+        <input type="password" placeholder="Enter Password" name="psw" required>
+
+        <button type="submit" class="btn">Login</button>
+        <button type="button" class="btn cancel" onclick="closeForm()">Close</button>
+    </form>
+</div>
+<hr>
+        
+    </div>
+    <a href="#C4">Jump to Chapter 4</a>
+<div class="photo-zoom">
+    <img src="../../../../HTML-and-CSS-Projects/Images/RicFlair.jpg" alt="">
+</div>
+    <!--Form with validation--> <!--
+<form name="myForm" action="" onsubmit="return validateForm()" method="post">
+    <label for="fname">First name:</label><br>
+    <input type="text" id="fname" name="fname" value="John"><br>
+    <label for="lname">Last name:</label><br>
+    <input type="text" id="lname" name="lname" value="Doe"><br>
+    <label for="email">Email:</label><br>
+    <input type="text" id="email" name="email" value="123@Email.com"><br>
+    <label for="lname">Last name:</label><br>
+    <input type="text" id="phonenumber" name="phonenumber" value="(123)456-7890"><br>
+    <label for="phonenumber">Phone Number:</label><br><br>
+    <input type="submit" value="Submit">
+    
+</form>    -->
+
+
+<!--Popup form-->
+
+<button class="open-button" onclick="openForm()">Open Form</button>
+<div class="form-popup" id="myForm2">
+    <form action="" class="form-container">
+        <h1>Login</h1>
+
+        <label for="email"><b>Email</b></label>
+        <input type="text" placeholder="Enter Email" name="email" required>
+
+        <label for="psw"><b>Password</b></label>
+        <input type="password" placeholder="Enter Password" name="psw" required>
+
+        <button type="submit" class="btn">Login</button>
+        <button type="button" class="btn cancel" onclick="closeForm()">Close</button>
+    </form>
+</div>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+<h2 id="C4">Chapter 4</h2>
+
+<div id="slideshow">
+    <div>
+        <img src="../../../../HTML-and-CSS-Projects/Images/dog1.jpg">
+    </div>
+    <div>
+        <img src="../../../../HTML-and-CSS-Projects/Images/RicFlair.jpg">
+    </div>
+    <div>
+        Pretty cool eh? This slide is proof the content can be anything.
+    </div>
+</div>
+
+
+
+</body>
+
+</html>
