@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<!-- One Page Website-->
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>All About Nolan</title>
+	<link rel="stylesheet" href="css/one_page_website.css">
+	<script src="js/main.js" defer></script>
+</head>
+
+<body>
+	<!-- NAV -->
+
+	<a href="#home" style="color:white;">Go to Home</a>
+	<a href="#media" style="color:white;">Go to movie</a>
+	<a href="#contact" style="color:white;">Contact us</a>
+
+	<!-- END NAV -->
+
+	<!-- Header -->
+	<h1 id="home">The G.O.A.T</h1>
+	<p style="color:white;">This page is all about the greatest baseball player to ever walk the field, <b>Nolan
+			Ryan</b>!</p>
+	<!-- End Header -->
+
+
+	<!-- Photo Gallery -->
+
+	<!-- Images used to open the lightbox -->
+	<div class="row">
+		<div class="column" >
+			<img src="images/nolan1.png" onclick="openModal();currentSlide(1)" class="hover-shadow"
+				style="width:225px;height:150px;">
+		</div>
+		<div class="column">
+			<img src="images/nolan2.png" onclick="openModal();currentSlide(2)" class="hover-shadow"
+				style="width:225px;height:150px; center;">
+		</div>
+		<div class="column">
+			<img src="images/nolan3.png" onclick="openModal();currentSlide(3)" class="hover-shadow"
+				style="width:225px;height:150px;">
+		</div>
+		<div class="column">
+			<img src="images/nolan4.png" onclick="openModal();currentSlide(4)" class="hover-shadow"
+				style="width:225px;height:150px;">
+		</div>
+	</div>
+
+	<!-- The Modal/Lightbox -->
+	<div id="myModal" class="modal">
+		<span class="close cursor" onclick="closeModal()">&times;</span>
+		<div class="modal-content">
+
+			<div class="mySlides">
+				<div class="numbertext">1 / 4</div>
+				<img src="images/nolan1.png" style="width:100%;height:100%">
+			</div>
+
+			<div class="mySlides">
+				<div class="numbertext">2 / 4</div>
+				<img src="images/nolan2.png" style="width:100%;height:100%">
+			</div>
+
+			<div class="mySlides">
+				<div class="numbertext">3 / 4</div>
+				<img src="images/nolan3.png" style="width:100%;height:100%">
+			</div>
+
+			<div class="mySlides">
+				<div class="numbertext">4 / 4</div>
+				<img src="images/nolan4.png" style="width:100%;height:100%">
+			</div>
+
+			<!-- Next/previous controls -->
+			<a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+			<a class="next" onclick="plusSlides(1)">&#10095;</a>
+
+			<!-- Caption text -->
+			<div class="caption-container">
+				<p id="caption"></p>
+			</div>
+
+			<!-- Thumbnail image controls -->
+			<div class="column">
+				<img class="demo" src="images/nolan1.png" onclick="currentSlide(1)" alt="Nolan Ryan" style="width:300px;height:200px;">
+			</div>
+
+			<div class="column">
+				<img class="demo" src="images/nolan2.png" onclick="currentSlide(2)" alt="Here is a rookie photo of Nolan" style="width:300px;height:200px;">
+			</div>
+
+			<div class="column">
+				<img class="demo" src="images/nolan3.png" onclick="currentSlide(3)" alt="Nolan Ryan today" style="width:300px;height:200px;">
+			</div>
+
+			<div class="column">
+				<img class="demo" src="images/nolan4.png" onclick="currentSlide(4)" alt="Nolan on the mound" style="width:300px;height:200px;">
+			</div>
+		</div>
+	</div>
+
+
+	
+
+	<!-- Video embedd -->
+
+	<p id="media" style="color:white;">Here is a video of some of his highlights!</p>
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/qVHezwMKNQo" title="YouTube video player"
+		frameborder="0" allow="accelerometer; autoplay; clipboard-write; 
+	encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	<!-- End Video -->
+
+	<!-- FORM -->
+
+	<div class="reservation">
+		<div class="form-rsvp">
+
+			<form action="" method="get">
+				<p id="contact">Leave your contact info for more Nolan Ryan updates!</p>
+				<input class="rsvp" type="text" value="" placeholder="First Name">
+				<input class="rsvp" type="text" value="" placeholder="Last Name">
+				<input class="rsvp" type="text" value="" placeholder="Email Address">
+				<input class="rsvp" type="text" value="" placeholder="Phone Number">
+				<div class="submit">
+					<input type="submit" value="Submit">
+				</div>
+			</form>
+
+		</div>
+		<!-- Old form
+	<div>
+		<p id="contact" style="color:white;">Leave your contact info for Nolan Ryan updates!</p>
+		<form action="" method="get" style="color:white;">
+			First name: <input type"text" name="First_Name"><br>
+			Last Name: <input type"text" name="Last_Name"><br>
+			Email: <input type"text" name="Email"><br>
+			Password: <input type"text" name="Password"><br>
+			<input type="submit" value="Submit">
+		</form>
+	</div>
+-->
+		<!-- END FORM -->
+
+		<!-- Footer -->
+		<p style="color:white;">This website is a registered trademark &reg; of a test page</p>
+		<!-- End Footer -->
+</body>
+
+</html>
