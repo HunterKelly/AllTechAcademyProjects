@@ -1,10 +1,14 @@
 {
   "ExpandedNodes": [
     "",
-    "\\C# Course Projects",
-    "\\C# Course Projects\\Basic_C#_Programs",
-    "\\C# Course Projects\\Basic_C#_Programs\\TechAcadStudentsMVC",
+    "\\CarInsurance",
+    "\\TheatreCMS4\\TheatreCMS3",
+    "\\TheatreCMS4\\TheatreCMS3\\Areas",
+    "\\TheatreCMS4\\TheatreCMS3\\Areas\\Prod",
+    "\\TheatreCMS4\\TheatreCMS3\\Areas\\Prod\\Views",
+    "\\TheatreCMS4\\TheatreCMS3\\Areas\\Prod\\Views\\ProductionMembers",
     "\\TicTacToe"
   ],
+  "SelectedNode": "\\CarInsurance\\CarInsurance.sln",
   "PreviewInSolutionExplorer": false
 }
