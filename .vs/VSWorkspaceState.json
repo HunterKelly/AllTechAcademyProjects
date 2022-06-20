@@ -1,14 +1,13 @@
 {
   "ExpandedNodes": [
     "",
-    "\\CarInsurance",
+    "\\TheatreCMS4",
     "\\TheatreCMS4\\TheatreCMS3",
     "\\TheatreCMS4\\TheatreCMS3\\Areas",
     "\\TheatreCMS4\\TheatreCMS3\\Areas\\Prod",
-    "\\TheatreCMS4\\TheatreCMS3\\Areas\\Prod\\Views",
-    "\\TheatreCMS4\\TheatreCMS3\\Areas\\Prod\\Views\\ProductionMembers",
+    "\\TheatreCMS4\\TheatreCMS3\\Areas\\Prod\\Controllers",
     "\\TicTacToe"
   ],
-  "SelectedNode": "\\CarInsurance\\CarInsurance.sln",
+  "SelectedNode": "\\TheatreCMS4\\TheatreCMS3\\Areas\\Prod\\Controllers\\ProductionMembersController.cs",
   "PreviewInSolutionExplorer": false
 }
