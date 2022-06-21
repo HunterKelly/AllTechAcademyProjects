@@ -1,13 +1,16 @@
 {
   "ExpandedNodes": [
     "",
-    "\\TheatreCMS4",
-    "\\TheatreCMS4\\TheatreCMS3",
-    "\\TheatreCMS4\\TheatreCMS3\\Areas",
-    "\\TheatreCMS4\\TheatreCMS3\\Areas\\Prod",
-    "\\TheatreCMS4\\TheatreCMS3\\Areas\\Prod\\Controllers",
-    "\\TicTacToe"
+    "\\ContosoCrafts",
+    "\\ContosoCrafts\\ContosoCrafts.WebSite",
+    "\\ContosoCrafts\\ContosoCrafts.WebSite\\wwwroot",
+    "\\ContosoCrafts\\ContosoCrafts.WebSite\\wwwroot\\lib",
+    "\\ContosoCrafts\\ContosoCrafts.WebSite\\wwwroot\\lib\\bootstrap",
+    "\\ContosoCrafts\\ContosoCrafts.WebSite\\wwwroot\\lib\\bootstrap\\dist",
+    "\\ContosoCrafts\\ContosoCrafts.WebSite\\wwwroot\\lib\\bootstrap\\dist\\css",
+    "\\HelloWorld",
+    "\\LiveProject"
   ],
-  "SelectedNode": "\\TheatreCMS4\\TheatreCMS3\\Areas\\Prod\\Controllers\\ProductionMembersController.cs",
+  "SelectedNode": "\\ContosoCrafts\\ContosoCrafts.WebSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
   "PreviewInSolutionExplorer": false
 }
