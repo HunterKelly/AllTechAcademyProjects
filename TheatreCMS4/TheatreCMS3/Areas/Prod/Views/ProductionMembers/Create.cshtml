@@ -101,8 +101,7 @@
                     @Html.ValidationMessageFor(model => model.CastYearLeft, "", new { @class = "text-danger" })
                 </div>
             </div>
-
-            <div class="form-group">
+             <div class="form-group">
                 @Html.LabelFor(model => model.DebutYearLeft, "Debut Year Left", htmlAttributes: new { @class = "control-label col-md-2" })
                 <div class="col-md-10">
                     @Html.EditorFor(model => model.DebutYearLeft, new { htmlAttributes = new { placeholder = "Enter debut year left", @class = "form-control" } })
